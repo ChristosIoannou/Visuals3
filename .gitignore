@@ -17,9 +17,11 @@ build-*/**
 
 /bin/*
 /bin/data/
+!bin/data/shaders/*
 /obj/*
 /.vs/*
 .*
+/.*
 
 #########
 # general
